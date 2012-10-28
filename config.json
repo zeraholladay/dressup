@@ -1,0 +1,12 @@
+{
+    "sprites": [ { "file": "paper/0.gif",  "coord": [0,0] }, 
+                 { "file": "paper/1.gif",  "coord": [0,0] }, 
+                 { "file": "paper/2.gif",  "coord": [0,0] }, 
+                 { "file": "paper/3.gif",  "coord": [0,0] }, 
+                 { "file": "paper/4.gif",  "coord": [0,0] }, 
+                 { "file": "paper/5.gif",  "coord": [0,0] }, 
+                 { "file": "paper/6.gif",  "coord": [0,0] },
+                 { "file": "paper/7.gif",  "coord": [0,0] }
+               ],
+    "background": "paper/background.png"
+}
