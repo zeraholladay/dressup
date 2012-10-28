@@ -57,6 +57,11 @@ def run():
 
     pygame.init()
     pygame.mouse.set_visible(True)
+
+    if "music" in Config:
+        pygame.mixer.music.load(Config["music"])
+        pygame.mixer.music.play()
+        pygame.mixer.music.set_endevent(pygame.QUIT)
     
     if not "debug" in options:
         modes = pygame.display.list_modes()

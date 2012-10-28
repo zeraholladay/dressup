@@ -1,0 +1,9 @@
+{
+    "sprites": [ { "file": "cinderella/0.gif",  "coord": [0,0]},
+                 { "file": "cinderella/1.gif",  "coord": [0,0]},
+                 { "file": "cinderella/2.gif",  "coord": [0,0]},
+                 { "file": "cinderella/3.gif",  "coord": [0,0]}
+               ],
+    "background": "cinderella/background.png",
+    "music": "music/bach-bwv1056-1-anatone.mp3"
+}

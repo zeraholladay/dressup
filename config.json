@@ -8,5 +8,6 @@
                  { "file": "paper/6.gif",  "coord": [0,0] },
                  { "file": "paper/7.gif",  "coord": [0,0] }
                ],
-    "background": "paper/background.png"
+    "background": "paper/background.png",
+    "music": "music/bach-bwv1056-1-anatone.mp3"
 }
